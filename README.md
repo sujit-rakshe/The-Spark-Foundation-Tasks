@@ -17,5 +17,5 @@ This repository contains the tasks that I completed while working as an intern f
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 ## My Solution
-- [**YouTube**](https://youtu.be/bKk9v2rLimo)
-- [**LinkIn**](https://www.linkedin.com/feed/update/urn:li:activity:7016005256417284096?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016005256417284096%29)
+- [**YouTube Video**](https://youtu.be/bKk9v2rLimo)
+- [**LinkIn Post**](https://www.linkedin.com/feed/update/urn:li:activity:7016005256417284096?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016005256417284096%29)
